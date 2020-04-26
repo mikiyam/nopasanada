@@ -3,4 +3,5 @@ layout: post
 title:  "How to write a blog post"
 ---
 
-This is my first post
+Knowing how it was just a story
+That they told

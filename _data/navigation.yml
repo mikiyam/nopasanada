@@ -1,6 +1,8 @@
-- title: Posts
-  url: /posts/
-- title: Categories
-  url: /categories/
+- title: interviews
+  url: /interviews/
+- title: poetry
+  url: /poetry/
+- title: writings
+  url: /writings/
 - title: Search
   url: /search/
