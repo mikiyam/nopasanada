@@ -1,10 +1,9 @@
 ---
 
 title: interviews
-layout: categories
-permalink: /interviews/
-show_excepts: true
-entries_layout: list
-
+layout: category
+permalink: /interviews
+taxonomy: interviews
 
 ---
+
