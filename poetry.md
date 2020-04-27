@@ -8,8 +8,3 @@ entries_layout: list
 
 
 ---
-
-Beginning
-on a couch
-without 
-a remote controller 

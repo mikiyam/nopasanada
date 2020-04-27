@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: no pasa nada
+title: No Pasa Nada
 logo: "/images/logo.png"
 email: mikiyamada23@gmail.com
 description: "An attempt to make sense of this world with no pasa nada"
