@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "How to write a blog post"
-categories: beginning
+title:  "puzzles"
+category: fragments
 
 ---
 
-Knowing how it was just a story
-That they told
+puzzle pieces 
+puzzled by the years they gathered dust

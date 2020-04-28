@@ -21,7 +21,7 @@
 title: No Pasa Nada
 logo: "/images/logo.png"
 email: mikiyamada23@gmail.com
-description: "An attempt to make sense of this world with no pasa nada"
+description: "some interviews, some poetry, some other writings:)"
 /: "nopasanada" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

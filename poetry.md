@@ -1,9 +1,10 @@
 ---
 
-title: poems archive
-layout: category
-permalink: /poetry
-taxonomy: poetry
+title: poetry
+layout: categories
+permalink: /poetry/
+entries_layout: list
+
 
 ---
 

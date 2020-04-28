@@ -1,8 +1,8 @@
 ---
-title: writings archive
-layout: categories
+title: writings
+layout: collection
 permalink: /writings/
-show_excerpts: true
+collection: writings
 entries_layout: list
 ---
 
