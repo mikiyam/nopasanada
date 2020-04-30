@@ -1,5 +1,4 @@
 ---
-title: writings
 layout: collection
 permalink: /writings/
 collection: writings

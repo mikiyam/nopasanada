@@ -5,5 +5,15 @@ sitemap: false
 
 @charset "utf-8";
 
-@import "so-simple";
+.site-title {
+  font-family: 'Amatic SC', serif;
+    font-size: 3rem !important;
+}
 
+h1, h2, h3, h4, h5, h6, h7 {
+  font-family: 'Open Sans Condens ed', sans-serif !important;
+  font-style: normal !important;
+  font-weight: 300 !important;
+} 
+
+$sans-serif-font-family: 'Open Sans Condensed', sans-serif;

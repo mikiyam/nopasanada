@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About me
 ---
 
-## My story
+
 
 My name is Miki; I am a Japanese/Hong Kongese who had most of my time outside of the two places I am from. Living currently in Spain under quarantine right now, I figured I could make some time for a website. 
 

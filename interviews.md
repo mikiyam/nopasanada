@@ -2,7 +2,7 @@
 
 layout: tags
 permalink: /interviews/
-show_excerpts: true
+show_excerpts: false
 entries_layout: list
 
 ---
