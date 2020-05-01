@@ -21,7 +21,6 @@
 title: No Pasa Nada
 logo: "/images/logo.png"
 email: mikiyamada23@gmail.com
-description: "some interviews, some poetry, some other writings:)"
 /: "nopasanada" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -32,6 +31,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 paginate: 5
+collections: 
+  - writings
 
 # Exclude from processing.
 # The following items will not be processed, by default.

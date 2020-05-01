@@ -6,7 +6,7 @@ sitemap: false
 @charset "utf-8";
 
 .site-title {
-  font-family: 'Amatic SC', serif;
+  font-family: 'Amatic SC', serif !important;
     font-size: 3rem !important;
 }
 
@@ -16,4 +16,10 @@ h1, h2, h3, h4, h5, h6, h7 {
   font-weight: 300 !important;
 } 
 
-$sans-serif-font-family: 'Open Sans Condensed', sans-serif;
+$sans-serif-font-family: 'Open Sans', sans-serif;
+
+body {
+  font-weight: 300;
+}
+
+@import "so-simple";
