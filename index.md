@@ -12,9 +12,16 @@ I have a grandma from Nagasaki. She told me about how she worked in a factory du
 
 We see increasing numbers of protests all around the world. COVID-19 strikes only to expose the problems we had been living with and exacerbate them at the same time. Increasing cases of domestic violence, the impossibility of social distancing, millions losing their jobs—because in the first place, our system has problems. Conflict isn’t separate from “peaceful” times. Conflict results from trying to cover up violence in, what we call, peaceful times.
 
-This is a platform to expose these problems, and at the same time, to learn how to live with them.  One of my favorite passages come from True Peace Work
+This is a platform to expose these problems, and at the same time, to learn how to live with them. And here, I would leave with one of my favorite passages, written by Kornfield in True Peace Work. 
 
-“It’s the nitty-gritty work 
+“It’s the nitty-gritty work of practice to sit here and feel your sadness and my sadness and our fear, desperation, and restlesness, to open to them and begin to learn that to love is to die to how we wanted it to be, and to open more to its truth. To love to is to accept. It is not a weakness. It is the most extraordinary power."
+
+May you find some peace in the writings. 
+
+love,
+
+miki
+
 
 
 
