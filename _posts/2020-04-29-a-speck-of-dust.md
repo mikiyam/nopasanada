@@ -6,27 +6,17 @@ word-wrap: break-word;
 
 ---
 
-moon hanging from
-
-the autumn sky says
-
-i will forever be
-
+moon hanging from <br/>
+the autumn sky says <br/>
+i will forever be <br/>
 only a speck of dust
 
-
-“forever
-
-and ever?” i ask the 
-
+“forever<br/>
+and ever?” i ask the<br/>
 moon
 
-
-yes, forever
-
+yes, forever<br/>
 and ever
 
-
-then let it be
-
+then let it be <br/>
 so
