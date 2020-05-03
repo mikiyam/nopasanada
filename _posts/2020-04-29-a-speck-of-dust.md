@@ -2,7 +2,6 @@
 layout: post
 title:  "a speck of dust"
 category: moon
-word-wrap: break-word;
 
 ---
 
