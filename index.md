@@ -4,7 +4,7 @@ layout: page
 
 
 
-Hi! :)
+Hi!
 
 My name is Miki. I am a part-time anthropologist and a part-time me. Part-time me trying to figure out how this world will work out the way it is right now (and it won’t, probably, if we continue like this). So, I am talking to more people, people who believe that there is a different world possible.
 
