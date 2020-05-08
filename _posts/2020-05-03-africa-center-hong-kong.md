@@ -8,7 +8,7 @@ tags: africacenter
 
 Africa Center is a platform built in 2019 to foster engaged interactions between African and non-African communities in Hong Kong. They host a range of activities from monthly book clubs on African literature, film screening on African movies, and panel discussions. Their Facebook Page can be accessed [here]( https://www.facebook.com/africacenterhk/) or you can find them at their [website]( http://www.africacenterhk.com/). 
 
-**Innocent Mutanga** is an analyst at Goldman Sachs, co-founder of Wandering Voices, Harmony HK, and Africa Center. 
+**Innocent Mutanga** is a co-founder of Africa Center and analyst at Goldman Sachs. 
 
 **Abdikafi Mohamud** is a shipping manager for Ocean Angel HK limited, a logistics and trading company based in Hong Kong, and is the co-founder and COO of Africa Center Hong Kong.
 
