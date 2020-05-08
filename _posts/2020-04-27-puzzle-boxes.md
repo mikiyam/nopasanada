@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "puzzle boxes"
+title:  puzzle boxes
 category: fragments
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "a speck of dust"
+title:  a speck of dust
 category: moon
 
 ---
