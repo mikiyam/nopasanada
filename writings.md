@@ -1,9 +1,9 @@
 ---
-layout: collection
+
+layout: categories
 permalink: /writings/
-collection: writings
-entries_layout: list
 show_excerpts: false
+entries_layout: list
 
 ---
 

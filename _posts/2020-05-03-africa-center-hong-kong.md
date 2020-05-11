@@ -8,12 +8,14 @@ tags: africacenter
 
 Africa Center is a platform built in 2019 to foster engaged interactions between African and non-African communities in Hong Kong. They host a range of activities from monthly book clubs on African literature, film screening on African movies, and panel discussions. Their Facebook Page can be accessed [here]( https://www.facebook.com/africacenterhk/) or you can find them at their [website]( http://www.africacenterhk.com/). 
 
-**Innocent Mutanga** is a co-founder of Africa Center and analyst at Goldman Sachs. 
+**Innocent Mutanga** is the co-founder of Africa Center and analyst at Goldman Sachs. 
 
-**Abdikafi Mohamud** is a shipping manager for Ocean Angel HK limited, a logistics and trading company based in Hong Kong, and is the co-founder and COO of Africa Center Hong Kong.
+**Abdikafi Mohamud** is the co-founder of Africa Center Hong Kong and a shipping manager for Ocean Angel HK limited, a logistics and trading company based in Hong Kong.
 
-**Chihiro Shimizu** is an artist working for Africa Center Hong Kong as Arts & Cross-Cultural Initiatives Manager. 
+**Chihiro Shimizu** is the Arts & Cross-Cultural Initiatives Manager and an artist.
 
-**Abdirahman Mahad Mohamud** is Programs Manager at Africa Center. He currently studies Business Management at University of Suderland in Hong Kong. 
+**Abdirahman Mahad Mohamud** is the Programs Manager at Africa Center, currently studying Business Management at University of Suderland in Hong Kong. 
 
-**Elsie Zepho** works at African Center as the Head of Culinary Arts. She is a mother of five children in Hong Kong. 
+**Elsie Zepho** is the Head of Culinary Arts at Africa Center and a mother of five children in Hong Kong. 
+
+**Ali Issa Ousmane** is the Entertainment Manager at Africa Center Hong Kong, and is a project developer in social innovation in Africa. 
