@@ -12,7 +12,7 @@ I have a grandmother from Nagasaki. She told me about how she worked in a factor
 
 In 2019, there were more protests all around the world than in previous years. In 2020, COVID-19 exposes problems we had been living with and exacerbate them at the same time, whether it is with the impossibility of social distancing, the rise in domestic violence, or millions losing their jobs. Conflict and violence isn’t separate from peaceful times. Conflict results from trying to cover up violence in, what we call, peaceful times.
 
-This is a platform as a reminder of such things in our society, beautiful or ugly as you perceive it. You may not agree with some of the perspectives written here. I leave the text of the interviews as they are, open to interpretation. 
+This is a platform as a reminder of such things in our society, beautiful or ugly as you perceive it. You may not agree with some of the perspectives written here. I leave the texts as they are, open to interpretation. 
 
 -
 

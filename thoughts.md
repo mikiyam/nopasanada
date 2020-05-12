@@ -1,7 +1,7 @@
 ---
 layout: collection
-permalink: /reflections/
-collection: reflections
+permalink: /thoughts/
+collection: thoughts
 entries_layout: list
 show_excerpts: false
 
