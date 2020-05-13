@@ -3,7 +3,7 @@
 layout: post
 title: calling it home
 image:
-  path: /images/abdirahman-on-the-djembe.jpg
+  path: /images/mahad-on-the-djembe.jpg
   caption: "Abdirahman on the djembe"
 tags: africacenter
 
