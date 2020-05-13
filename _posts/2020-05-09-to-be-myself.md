@@ -2,6 +2,9 @@
 
 layout: post
 title: to be myself
+image:
+  path: /images/innocent-with-the-kids.jpg
+  caption: "Innocent at Kidz Club"
 tags: africacenter
 
 ---

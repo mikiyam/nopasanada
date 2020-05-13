@@ -4,7 +4,7 @@ layout: post
 title: individuals and hard work
 image:
   path: /images/ali-giving-speech.jpg
-  caption: "Ali giving speech at Africa Center"
+  caption: "Ali speaking at Africa Center"
 tags: africacenter
 
 ---
