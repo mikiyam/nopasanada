@@ -2,6 +2,9 @@
 
 layout: post
 title: a land of opportunities
+image:
+  path: /images/kaze-art.jpg
+  caption: "At an art exhibition by Cameroonian artist Kaze hosted at Africa Center"
 tags: africacenter
 
 ---
