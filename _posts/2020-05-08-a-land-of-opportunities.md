@@ -3,8 +3,8 @@
 layout: post
 title: a land of opportunities
 image:
-  path: /images/kaze-art.jpg
-  caption: "At an art exhibition by Cameroonian artist Kaze hosted at Africa Center"
+  path: https://www.dropbox.com/s/et5cu43ksrdnpgx/kaze-art.jpg?raw=1
+  caption: "At an art exhibition by Cameroonian artist Kaze hosted by Africa Center"
 tags: africacenter
 
 ---
@@ -15,7 +15,7 @@ tags: africacenter
 
 Definitely there’s a lot more, you know opportunities in the times of—you know, you don’t have to worry about certain things now, like in Hong Kong, you don’t have to worry much about healthcare, you can pursue things well without thinking so much about it, you can go to the hospital and get treated for free! You might need to line up for a few years, and you know, that’s what everyone is doing. I think the fact that you don’t have to worry about such things, like you go to the U.S., someone has to worry about that all the time you know, while they are trying to pursue something else. 
 
-![no-alignment]({{ '/images/clarisse-talk.jpg' | absolute_url }})
+![no-alignment]({{ 'https://www.dropbox.com/s/vv1v34jur1765ql/international-womens-day.jpg?raw=1' | absolute_url }})
   <figcaption>At an event on International Women's Day at Africa Center.</figcaption>
 
 So, I mean if I were to talk about culturally or so, in terms of the exposure to the world, you don’t have to travel that much if you are in Hong Kong. You don’t need to go to Bali, you don’t need to go to Papua New Guinea: you can meet people here. You can meet people from countries like Sweden. I always used to say, I don’t say that anymore, but I will say it now, Michael Jackson was in Hong Kong. I’m sure one of us would have spent time you know in a party where you would meet Michael Jackson, but Michael is not the favorite character of many people, so I don’t know who else to use, I used to use Kobe Bryant, and—I’m running out of black people right now. 

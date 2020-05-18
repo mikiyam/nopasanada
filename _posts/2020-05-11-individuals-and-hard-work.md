@@ -3,7 +3,7 @@
 layout: post
 title: individuals and hard work
 image:
-  path: /images/ali-giving-speech.jpg
+  path: https://www.dropbox.com/s/inq0jkhw5zux4k2/ali-speaking.jpg?raw=1
   caption: "Ali speaking at Africa Center"
 tags: africacenter
 

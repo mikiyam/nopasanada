@@ -2,7 +2,7 @@
 layout: post
 title: eating with dignity
 image:
-  path: /images/elsie-cooking.jpg
+  path: https://www.dropbox.com/s/28ugdr5bxb6p7cz/elsie-cooking.jpg?raw=1
   caption: "Elsie cooking at Africa Center"
 tags: africacenter
 
@@ -14,13 +14,13 @@ I think the other part, I will echo everybody again, the idea of self-realizatio
 
 One of my favorite moments when we are all eating here I think that, I think it’s something that I remember when we came, Farhan, I think some of you, all of you should know; we started a movement called ‘eating with dignity’, primarily because we felt like when we were eating in some places which I won’t mention their names, we were like monkeys in the zoo or something, so we started this movement that guys, let’s eat with dignity, what that implies is that we had to forgo some delicious food so that we can survive on one prata, a tiny sauce that we are sharing, and that becomes our daily meal. You go hungry but you can go hungry with dignity without having to eat the food of somebody who is going to telling us we are sort of monkeys and terrible people, some horrible poor people who can’t do shit for themselves, I think we never had that opportunity you know, at least when we were here, I think somebody [said] it’s not always easy to follow the principles if you are on an empty stomach. 
 
-![no-alignment]({{ '/images/chihiro-kisoulou.jpg' | absolute_url }})
+![no-alignment]({{ 'https://www.dropbox.com/s/disopyqdi9egtuv/chihiro-kisoulou.jpg?raw=1' | absolute_url }})
   <figcaption>Chihiro's drawings for kisoulou.</figcaption>
 
 
 If you are hungry you are not always easy to follow principles, it’s easy to follow principles if you are Bill Gates because there are not much consequences. But most of the things in life is about resources, and for some of us, it was about food at a particular point, that was the society in fact if tomorrow [I was thinking if] I am waking up alive or not. We agree to stick to principles: that’s why the eating part, I never forget that, that finally we are eating with dignity. Now it’s not only one prata with little sauce, there is a lot more of fancy decorated food now, you know, with dignity, some of you may not know how that felt, those days, it was something else. And you definitely go talk to Farhan and Shermake on how our eating with dignity movement went, they were the main revolutionaries with eating with dignity movement. Since then, I’ve appreciated food more. You know, the meaning of it. Just like the whole idea of eating without somebody trying to sneak a camera in a certain angle that is so demeaning. 
 
-![no-alignment]({{ '/images/chihiro-fufu.jpg' | absolute_url }})
+![no-alignment]({{ 'https://www.dropbox.com/s/h6mw2kq639108a6/chihiro-fufu.jpg?raw=1' | absolute_url }})
   <figcaption>Chihiro's drawings for fufu.</figcaption>
 
 

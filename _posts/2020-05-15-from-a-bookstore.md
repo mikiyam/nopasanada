@@ -2,7 +2,7 @@
 layout: post
 title: from a bookstore
 image:
-  path: /images/james.jpg
+  path: https://www.dropbox.com/s/9913a1u1wutepba/james.jpg?raw=1
   caption: "James speaking at an interview."
 tags: rollingbooks
 
@@ -12,7 +12,7 @@ Let’s talk about books. Books is more complicated, maybe because in the past, 
 
 Yes. During that time, we had a lot of media interviews. We had a lot. We had interviews from Hong Kong, from the mainland media as well, and we would have some Japanese media who interviewed us. It was because we opened a new style of bookstore. Because, remember, this is 15 years ago, and at that time the bookstores were just selling books. Bookshops were not about activities. Of course, during that time Taiwan’s Eslite Bookstore was also opened and they would do a lot of activities. Hong Kong didn’t have a lot [of these kinds of bookstores]. So I used this bookstore in Hong Kong to do a lot of activities and I think because I have done art management, I would be able to pull a lot of art-related activities into my bookstore. It was funny that in our bookstore, we had done a lot of concerts. Many independent musicians didn’t have a place to produce CDs, and they didn’t have people who would want to do their concerts. So, we would work as organizers and producers to make concerts possible, at an art center, at Cattle Depot, or in Macao. We would use the name of a bookstore to do this. We also made a CD, by the way, called Invisible Cities. We organized a bunch of local musicians to make a CD. 
 
-![no-alignment]({{ '/images/james-bookstore.jpg' | absolute_url }})
+![no-alignment]({{ 'https://www.dropbox.com/s/ak9y2rm1xt5bhlk/james-bookstore.jpg?raw=1' | absolute_url }})
   <figcaption>James's bookstore fifteen years ago. In Hong Kong, the bookstores that are not visible on the ground level are called upstairs bookstores (樓上書店).</figcaption>
   
 We attracted attention into the norms of bookstore operation in five years; we did a lot of different experiments to allow people to have a new imagination, that if you do a bookshop, you can do all kinds of things. As for choosing books, we also chose very well. And with these activities, the bookstore was quite popular. 
