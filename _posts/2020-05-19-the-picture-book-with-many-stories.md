@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: a picture book with many stories
+title: the picture book with many stories
 image:
   path: https://www.dropbox.com/s/27smj7lcbkol0br/reading-on-the-beach.jpg?raw=1
   caption: "Reading to children about marine pollution on the beach."
