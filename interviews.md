@@ -1,9 +1,9 @@
 ---
 
-layout: tags
+layout: interviews
 permalink: /interviews/
 show_excerpts: false
-entries_layout: list
+entries_layout: grid
 
 ---
 

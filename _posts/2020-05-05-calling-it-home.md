@@ -4,6 +4,7 @@ layout: post
 title: calling it home
 image:
   path: https://www.dropbox.com/s/fhi9zm66y3hpqx1/mahad-on-the-djembe.jpg?raw=1
+  thumbnail: https://www.dropbox.com/s/fhi9zm66y3hpqx1/mahad-on-the-djembe.jpg?raw=1
   caption: "Abdirahman on the djembe"
 tags: africacenter
 

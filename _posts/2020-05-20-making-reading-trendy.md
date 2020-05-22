@@ -3,6 +3,7 @@ layout: post
 title: making reading trendy
 image:
   path: https://www.dropbox.com/s/nrrztp4tuib9ql3/library.jpg?raw=1
+  thumbnail: https://www.dropbox.com/s/nrrztp4tuib9ql3/library.jpg?raw=1
   caption: "'Library' written in Traditional Chinese characters."
 tags: rollingbooks
 

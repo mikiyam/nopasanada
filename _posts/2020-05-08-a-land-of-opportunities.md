@@ -4,6 +4,7 @@ layout: post
 title: a land of opportunities
 image:
   path: https://www.dropbox.com/s/et5cu43ksrdnpgx/kaze-art.jpg?raw=1
+  thumbnail: https://www.dropbox.com/s/et5cu43ksrdnpgx/kaze-art.jpg?raw=1
   caption: "At an art exhibition by Cameroonian artist Kaze hosted by Africa Center"
 tags: africacenter
 

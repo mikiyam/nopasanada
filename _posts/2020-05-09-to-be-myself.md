@@ -4,6 +4,7 @@ layout: post
 title: to be myself
 image:
   path: https://www.dropbox.com/s/npp7gt7yjjgxmc5/innocent-with-the-kids.jpg?raw=1
+  thumbnail: https://www.dropbox.com/s/npp7gt7yjjgxmc5/innocent-with-the-kids.jpg?raw=1
   caption: "Innocent at Kidz Club"
 tags: africacenter
 

@@ -6,7 +6,7 @@ layout: page
 
 Hi! :)
 
-My name is Miki. I am a part-time anthropologist and a part-time me. Part-time me trying to figure out how this world will work out the way it is right now (and it won’t, probably, if we continue like this). So, I am talking to more people, people who believe that there is a different world possible.
+My name is Miki. I am a part-time anthropologist and a part-time me. Part-time me trying to figure out how this world will work out the way it is right now (and it won’t, probably, if we continue like this). So, I am talking to more people, people who believe a different world is possible.
 
 I have a grandmother from Nagasaki. She told me about how she worked in a factory during WWII. When the atomic bomb blew off, she was not in Nagasaki city. She survived. Not all of them were so fortunate. I don’t remember the rest of her story very well. Ninety years old this year, she is also forgetting them. My grandfather was in Manchuria. Not sure what he did there. By the time I wanted to ask him, he was struck with Alzeimers. 
 

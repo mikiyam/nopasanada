@@ -3,7 +3,8 @@
 layout: post
 title: like robots
 image:
-  path: https://www.dropbox.com/s/1tkxgljpymuhecv/elsie-with-her-children.jpg?raw=1
+  path: https://www.dropbox.com/s/bsvrg12thz5qc09/elsie-and-her-kids.jpg?raw=1
+  thumbnail: https://www.dropbox.com/s/bsvrg12thz5qc09/elsie-and-her-kids.jpg?raw=1
   caption: "Elsie with her children."
 tags: africacenter
 

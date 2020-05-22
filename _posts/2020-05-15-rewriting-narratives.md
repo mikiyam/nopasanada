@@ -3,6 +3,7 @@ layout: post
 title: rewriting narratives
 image:
   path: https://www.dropbox.com/s/m78xtryj68czptw/network-lunch.jpg?raw=1
+  thumbnail: https://www.dropbox.com/s/m78xtryj68czptw/network-lunch.jpg?raw=1
   caption: "At network lunch at Africa Center"
 tags: africacenter
 

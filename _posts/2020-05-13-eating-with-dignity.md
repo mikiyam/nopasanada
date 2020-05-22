@@ -3,6 +3,7 @@ layout: post
 title: eating with dignity
 image:
   path: https://www.dropbox.com/s/28ugdr5bxb6p7cz/elsie-cooking.jpg?raw=1
+  thumbnail: https://www.dropbox.com/s/28ugdr5bxb6p7cz/elsie-cooking.jpg?raw=1
   caption: "Elsie cooking at Africa Center"
 tags: africacenter
 
