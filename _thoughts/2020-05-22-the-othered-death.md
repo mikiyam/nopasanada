@@ -15,7 +15,8 @@ a boy was shot  <br/>
 in the morning
 
 “you want to go back now?” i  <br/>
-ask my somali friend
+ask my somali friend, pointing <br/>
+at the city
 
 “well, you know we have suicide bombings  <br/>
 in mogadishu?”  <br/>
