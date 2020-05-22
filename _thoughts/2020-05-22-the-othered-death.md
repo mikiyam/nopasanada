@@ -16,9 +16,10 @@ in the morning
 
 “you want to go back now?” i  <br/>
 ask my somali friend, pointing <br/>
-at the city
+at the burning city
 
 “well, you know we have suicide bombings  <br/>
 in mogadishu?”  <br/>
 he smiles at me
 
+[november 7, 2019]
