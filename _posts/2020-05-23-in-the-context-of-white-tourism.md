@@ -18,7 +18,7 @@ tags: shuiabshuia
 **María:** Our working way is to try to live together. Obviously sometimes we cook traditional meals from Catalonia and we share them with local people and Moroccan people also invites us to their houses to share their meals and culture. We do this types of things where we learn about each other’s culture, but this is not the principal objective of our project.
 
 ![no-alignment]({{ 'https://www.dropbox.com/s/aki1dnwv7bl6q7d/in-duar-essifa.jpg?raw=1' | absolute_url }})
-  <figcaption>Children choosing books.</figcaption>
+  <figcaption>At Duar Essifa, a village near Erfoud.</figcaption>
 
 **Aina:** We always want to work with local associations, actually is key for us to listen to local people opinions and suggestions. We always try to collaborate and work hand in hand with local associations, because we think is the only way for us to entirely understand the needs of the region and their people.
 
