@@ -4,7 +4,7 @@ layout: post
 image: 
   path: https://www.dropbox.com/s/2g3b33d5lyidas6/swimming-pool-shuiabshuia.jpg?raw=1
   thumbnail: https://www.dropbox.com/s/2g3b33d5lyidas6/swimming-pool-shuiabshuia.jpg?raw=1
-  caption: "At the swimming pool with children with disabilities in Erfoud."
+  caption: "Shuia b shuia at the swimming pool with children with disabilities in Erfoud."
 tags: shuiabshuia
     
 ---
