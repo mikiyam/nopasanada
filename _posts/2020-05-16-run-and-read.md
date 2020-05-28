@@ -2,8 +2,8 @@
 layout: post
 title: run and read
 image:
-  path: https://www.dropbox.com/s/ijof5vpwi4mkdao/running-book-club-1.jpg?raw=1
-  thumbnail: https://www.dropbox.com/s/ijof5vpwi4mkdao/running-book-club-1.jpg?raw=1
+  path: https://www.dropbox.com/s/yxhnqcbjlyctcru/running-club-with-rollingbooks.png?raw=1
+  thumbnail: https://www.dropbox.com/s/yxhnqcbjlyctcru/running-club-with-rollingbooks.png?raw=1
   caption: "Running Book Club members gather in front of Rolling Books."
 tags: rollingbooks
 

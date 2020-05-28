@@ -2,8 +2,8 @@
 layout: post
 title: intergenerational poverty
 image: 
-  path: https://www.dropbox.com/s/wx0q14z5lov0e7d/rolling-books-kids.jpg?raw=1
-  thumbnail: https://www.dropbox.com/s/wx0q14z5lov0e7d/rolling-books-kids.jpg?raw=1
+  path: https://www.dropbox.com/s/hhpv65axgg2a1no/rolling-books-kids.png?raw=1
+  thumbnail: https://www.dropbox.com/s/hhpv65axgg2a1no/rolling-books-kids.png?raw=1
   caption: "Children recieving their books at the doorstep."
 tags: rollingbooks
 

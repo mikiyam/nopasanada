@@ -2,8 +2,8 @@
 title: in the context of white tourism
 layout: post
 image: 
-  path: https://www.dropbox.com/s/39a880nej818q7g/duar-essifa.jpg?raw=1
-  thumbnail: https://www.dropbox.com/s/39a880nej818q7g/duar-essifa.jpg?raw=1
+  path: https://www.dropbox.com/s/cq1px7va2nhybao/duar-essifa.png?raw=1
+  thumbnail: https://www.dropbox.com/s/cq1px7va2nhybao/duar-essifa.png?raw=1
   caption: "Children at Duar Essifa, a village near Erfoud."
 tags: shuiabshuia
     

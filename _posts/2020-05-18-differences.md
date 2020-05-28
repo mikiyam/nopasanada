@@ -3,8 +3,8 @@
 layout: post
 title: differences
 image:
-  path: https://www.dropbox.com/s/noeqqebus231onv/mahad-birthday.jpg?raw=1
-  thumbnail:  https://www.dropbox.com/s/noeqqebus231onv/mahad-birthday.jpg?raw=1
+  path: https://www.dropbox.com/s/liih3k44rhe2mf3/mahad-birthday.png?raw=1
+  thumbnail:  https://www.dropbox.com/s/liih3k44rhe2mf3/mahad-birthday.png?raw=1
   caption: "At Abdirahman's birthday."
 tags: africacenter
 

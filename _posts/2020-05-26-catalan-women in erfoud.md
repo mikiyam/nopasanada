@@ -2,8 +2,8 @@
 title: catalan women in erfoud
 layout: post
 image:
-  path: https://www.dropbox.com/s/rd9o2df4pbqmy62/shuia-b-shuia.jpg?raw=1
-  thumbnail: https://www.dropbox.com/s/rd9o2df4pbqmy62/shuia-b-shuia.jpg?raw=1
+  path: https://www.dropbox.com/s/kmjcyk1hfvshi7z/shuia-b-shuia.png?raw=1
+  thumbnail: https://www.dropbox.com/s/kmjcyk1hfvshi7z/shuia-b-shuia.png?raw=1
   caption: Founders of Shuia b shuia. 
 tags: shuiabshuia
     

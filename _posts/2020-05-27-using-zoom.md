@@ -2,8 +2,8 @@
 layout: post
 title: using zoom 
 image:
-  path: https://www.dropbox.com/s/az8myqcb4zcxmgb/rolling-books-recieving-books.jpg?raw=1
-  thumbnail: https://www.dropbox.com/s/az8myqcb4zcxmgb/rolling-books-recieving-books.jpg?raw=1
+  path: https://www.dropbox.com/s/inammjprgcmj1od/rolling-books-recieving-books.png?raw=1
+  thumbnail: https://www.dropbox.com/s/inammjprgcmj1od/rolling-books-recieving-books.png?raw=1
   caption: "Parents recieving books from Rolling Books during Coronavirus."
 tags: rollingbooks
 

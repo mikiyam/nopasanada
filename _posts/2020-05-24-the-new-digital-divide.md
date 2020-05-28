@@ -2,8 +2,8 @@
 layout: post
 title: the new digital divide
 image:
-  path: https://www.dropbox.com/s/c7xy7j2mn2wh1q1/story-telling-in-a-different-way.jpg?raw=1
-  thumbnail: https://www.dropbox.com/s/c7xy7j2mn2wh1q1/story-telling-in-a-different-way.jpg?raw=1
+  path: https://www.dropbox.com/s/rtqa83e1cpuf586/story-telling-in-a-different-way.png?raw=1
+  thumbnail: https://www.dropbox.com/s/rtqa83e1cpuf586/story-telling-in-a-different-way.png?raw=1
   caption: "At a reading event on Mother's Day."
 tags: rollingbooks
 

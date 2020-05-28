@@ -2,8 +2,8 @@
 layout: post
 title: a business model 
 image:
-  path: https://www.dropbox.com/s/2r68m2zn16wbjbx/rolling-books-parents.jpg?raw=1
-  thumbnail: https://www.dropbox.com/s/2r68m2zn16wbjbx/rolling-books-parents.jpg?raw=1
+  path: https://www.dropbox.com/s/2hwooykbnsvr46a/rollingbooks-parents.png?raw=1
+  thumbnail: https://www.dropbox.com/s/2hwooykbnsvr46a/rollingbooks-parents.png?raw=1
   caption: "Parents with their children at Rolling Books."
 tags: rollingbooks
 

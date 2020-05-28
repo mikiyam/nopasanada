@@ -3,8 +3,8 @@
 layout: post
 title: individuals and hard work
 image:
-  path: https://www.dropbox.com/s/inq0jkhw5zux4k2/ali-speaking.jpg?raw=1
-  thumbnail: https://www.dropbox.com/s/inq0jkhw5zux4k2/ali-speaking.jpg?raw=1
+  path: https://www.dropbox.com/s/x3omfpgk8jyg7ej/ali-speaking.png?raw=1
+  thumbnail: https://www.dropbox.com/s/x3omfpgk8jyg7ej/ali-speaking.png?raw=1
   caption: "Ali speaking at Africa Center"
 tags: africacenter
 

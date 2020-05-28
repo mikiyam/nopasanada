@@ -2,8 +2,8 @@
 layout: post
 title: from a bookstore
 image:
-  path: https://www.dropbox.com/s/9913a1u1wutepba/james.jpg?raw=1
-  thumbnail: https://www.dropbox.com/s/9913a1u1wutepba/james.jpg?raw=1
+  path: https://www.dropbox.com/s/z3kx5eorp80pbwm/james.png?raw=1
+  thumbnail: https://www.dropbox.com/s/z3kx5eorp80pbwm/james.png?raw=1
   caption: "James speaking at an interview."
 tags: rollingbooks
 

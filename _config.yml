@@ -20,18 +20,16 @@
 
 title: No Pasa Nada
 logo: "/images/logo.png"
-email: mikiyamada23@gmail.com
+email: nopasanadaamiki@gmail.com
 /: "nopasanada" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.nopasanadaa.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 paginate: 5
-collections:
+collections: 
   thoughts:
     output: true
 
