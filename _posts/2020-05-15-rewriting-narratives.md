@@ -5,7 +5,7 @@ image:
   path: https://www.dropbox.com/s/axppne1jfiur8gi/network-lunch.png?raw=1
   thumbnail: https://www.dropbox.com/s/axppne1jfiur8gi/network-lunch.png?raw=1
   caption: "At network lunch at Africa Center"
-tags: africacenter
+tags: [africa is not a country]
 
 ---
 

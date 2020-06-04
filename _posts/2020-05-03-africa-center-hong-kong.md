@@ -2,7 +2,7 @@
 
 layout: post
 title: africa center hong kong
-tags: africacenter
+tags: [africa is not a country]
 
 ---
 

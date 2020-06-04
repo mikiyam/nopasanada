@@ -3,9 +3,9 @@ layout: post
 title: run and read
 image:
   path: https://www.dropbox.com/s/yxhnqcbjlyctcru/running-club-with-rollingbooks.png?raw=1
-  thumbnail: https://www.dropbox.com/s/yxhnqcbjlyctcru/running-club-with-rollingbooks.png?raw=1
+  thumbnail: https://www.dropbox.com/s/1emrfg9gmna9qfm/running-club-with-rollingbooks_thumbnail.png?raw=1
   caption: "Running Book Club members gather in front of Rolling Books."
-tags: rollingbooks
+tags: [making reading trendy]
 
 ---
 

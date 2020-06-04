@@ -3,9 +3,9 @@ title: catalan women in erfoud
 layout: post
 image:
   path: https://www.dropbox.com/s/kmjcyk1hfvshi7z/shuia-b-shuia.png?raw=1
-  thumbnail: https://www.dropbox.com/s/kmjcyk1hfvshi7z/shuia-b-shuia.png?raw=1
-  caption: Founders of Shuia b shuia. 
-tags: shuiabshuia
+  thumbnail: https://www.dropbox.com/s/mp9y86ee55sjyla/shuia-b-shuia_thumbnail.png?raw+1
+  caption: Founders of Shuia b shuia.
+tags: [every summer in erfoud]
     
 ---
 

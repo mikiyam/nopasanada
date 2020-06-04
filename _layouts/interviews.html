@@ -49,7 +49,7 @@ layout: page
 
 <ul class="taxonomy-index">
   {% for tag_names in tag_names_array %}
-    {% assign tag_names_list = tag_names | split: "," %}
+    {% assign tag_names_list = tag_names | split: "," | sort %}
     {% assign tag_count = tag_counts[forloop.index0] %}
     {% for tag_name in tag_names_list %}
       <li>
@@ -62,7 +62,7 @@ layout: page
 </ul>
 
 {% for tag_names in tag_names_array %}
-  {% assign tag_names_list = tag_names | split: "," %}
+  {% assign tag_names_list = tag_names | split: "," | sort %}
   {% for tag_name in tag_names_list %}
     <section id="{{ tag_name | slugify | downcase }}" class="taxonomy-section">
       <h2 class="taxonomy-title">{{ tag_name }}</h2>

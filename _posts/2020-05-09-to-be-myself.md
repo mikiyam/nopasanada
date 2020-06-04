@@ -1,12 +1,11 @@
 ---
-
 layout: post
 title: to be myself
 image:
   path: https://www.dropbox.com/s/e5wv5ndfu16snot/innocent-with-the-kids.png?raw=1
   thumbnail: https://www.dropbox.com/s/e5wv5ndfu16snot/innocent-with-the-kids.png?raw=1
   caption: "Innocent at Kidz Club"
-tags: africacenter
+tags: [africa is not a country]
 
 ---
 

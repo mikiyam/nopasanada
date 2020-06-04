@@ -1,12 +1,11 @@
 ---
-
 layout: post
 title: like robots
 image:
   path: https://www.dropbox.com/s/i17vqu5eps3cfz9/elsie-and-her-kids.png?raw=1
-  thumbnail: https://www.dropbox.com/s/i17vqu5eps3cfz9/elsie-and-her-kids.png?raw=1
-  caption: "Elsie with her children."
-tags: africacenter
+  thumbnail: https://www.dropbox.com/s/efxoaj7qo3zc3kf/elsie-and-her-kids_thumbnail.png?raw=1
+  caption: Elsie with her children.
+tags: [africa is not a country]
 
 ---
 
