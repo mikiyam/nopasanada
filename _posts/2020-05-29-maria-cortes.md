@@ -1,7 +1,7 @@
 ---
 layout: post
 title: maria cortés la granaina and flamenco
-tags: mariacortés
+tags: [dancing flamenco]
 
 ---
 

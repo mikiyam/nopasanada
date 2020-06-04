@@ -5,7 +5,7 @@ image:
   path: https://www.dropbox.com/s/97za94v59w0fjg6/library-rollingbooks.png?raw=1
   thumbnail: https://www.dropbox.com/s/97za94v59w0fjg6/library-rollingbooks.png?raw=1
   caption: "'Library' written in Traditional Chinese characters."
-tags: rollingbooks
+tags: [making reading trendy]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "shuia b shuia"
 layout: post
-tags: shuiabshuia
+tags: [every summer in erfoud]
     
 ---
 

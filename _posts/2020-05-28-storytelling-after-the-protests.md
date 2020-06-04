@@ -4,8 +4,8 @@ title: storytelling after the protests
 image:
   path: https://www.dropbox.com/s/slhxf9yc4yqh5fc/reading-rollingbooks.png?raw=1
   thumbnail: https://www.dropbox.com/s/slhxf9yc4yqh5fc/reading-rollingbooks.png?raw=1
-  caption: "Storytelling."
-tags: rollingbooks
+  caption: Storytelling.
+tags: [making reading trendy]
 
 ---
 

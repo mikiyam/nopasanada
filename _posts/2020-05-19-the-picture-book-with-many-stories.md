@@ -6,7 +6,7 @@ image:
   path: https://www.dropbox.com/s/v8oq4c0aw3g3u86/reading-at-the-beach.png?raw=1
   thumbnail: https://www.dropbox.com/s/v8oq4c0aw3g3u86/reading-at-the-beach.png?raw=1
   caption: "Reading to children about marine pollution on the beach."
-tags: rollingbooks
+tags: [making reading trendy]
 
 ---
 

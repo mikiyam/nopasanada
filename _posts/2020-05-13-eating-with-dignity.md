@@ -3,9 +3,9 @@ layout: post
 title: eating with dignity
 image:
   path: https://www.dropbox.com/s/5hh4zt2s7hk93ie/elsie-cooking.png?raw=1
-  thumbnail: https://www.dropbox.com/s/5hh4zt2s7hk93ie/elsie-cooking.png?raw=1
-  caption: "Elsie cooking at Africa Center"
-tags: africacenter
+  thumbnail: https://www.dropbox.com/s/lygn3zbgyv3jj80/elsie-cooking_thumbnail.png?raw=1
+  caption: Elsie cooking at Africa Center.
+tags: [africa is not a country]
 
 ---
 

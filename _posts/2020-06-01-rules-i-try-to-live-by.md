@@ -4,8 +4,8 @@ title: rules i try to live by
 image: 
   path: https://www.dropbox.com/s/bz02mt9mb1a0001/fuelledrjoe001.jpg?raw=1
   thumbnail: https://www.dropbox.com/s/bz02mt9mb1a0001/fuelledrjoe001.jpg?raw=1
-  caption: "Fülle by Margit Melcher"
-categories: poems
+  caption: Fülle by Margit Melcher.
+categories: [the inner child]
 
 ---
 

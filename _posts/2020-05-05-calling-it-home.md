@@ -5,8 +5,8 @@ title: calling it home
 image:
   path: https://www.dropbox.com/s/yqmowd2thy5r1yq/mahad-on-the-drum.png?raw=1
   thumbnail: https://www.dropbox.com/s/yqmowd2thy5r1yq/mahad-on-the-drum.png?raw=1
-  caption: "Abdirahman on the djembe"
-tags: africacenter
+  caption: Abdirahman on the djembe.
+tags: [africa is not a country]
 
 ---
 
