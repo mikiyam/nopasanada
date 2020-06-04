@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign sorted_tags = site.tags | sort_tags_by_name %}
+{% assign sorted_tags = site.tags | sort 0 %}
 
 <ul class="taxonomy-index">
   {% for tag in sorted_tags %}
