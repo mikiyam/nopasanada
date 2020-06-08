@@ -4,7 +4,7 @@ permalink: /subscribe/
 collection: subscribe
 
 image: 
-  path: https://www.dropbox.com/s/tgl4eqgnit4m3hi/subscription%20page.png?raw=1
+  path: images/subscription.png
 
 ---
 
