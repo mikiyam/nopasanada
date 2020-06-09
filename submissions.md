@@ -1,7 +1,7 @@
 ---
 
 layout: categories
-permalink: /writings/
+permalink: /submissions/
 show_excerpts: false
 entries_layout: list
 
