@@ -5,6 +5,7 @@ tags: [dancing flamenco]
 image: 
   path: https://www.dropbox.com/s/icix95spfe1w15z/maria-at-the-beach.png?raw=1
   thumbnail: https://www.dropbox.com/s/icix95spfe1w15z/maria-at-the-beach.png?raw=1
+  caption: Photo by Quito, Gabriel Hernández. 
 
 ---
 
