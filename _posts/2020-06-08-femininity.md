@@ -1,6 +1,6 @@
 ---
 layout: post
-title: as a woman
+title: femininity
 tags: [dancing flamenco]
 image: 
   path: https://www.dropbox.com/s/icix95spfe1w15z/maria-at-the-beach.png?raw=1
@@ -10,7 +10,7 @@ image:
 
 In the south of Spain, it’s still *machista* [male chauvinistic]. When I come back to the south of Spain, I still feel that it is difficult as a woman at a certain age to be free. For example, I was in Holland and in other countries, and I liberated myself from collective memories of the women: women who were submissive and oppressed. 
 
-When I sing and dance flamenco, I have to connect with the pain, because flamenco comes from that pain. Pain can be a power: you can wake up through pain, no? Like with fire. Flamenco is that for me; through flamenco I am awake, and I use it to develop consciousness. This was my instrument to liberate myself to become a free woman. Flamenco was my instrument to give a life to my children, to fight against a system here that wants to make me a victim like my mother—no, I use flamenco and I was famous, instead of a victim. Flamenco was a gift for me.
+When I sing and dance flamenco, I have to connect with the pain, because flamenco comes from pain. Pain can be a power: you can wake up through pain, no? Like with fire. Flamenco is that for me; through flamenco I am awake, and I use it to develop consciousness. This was my instrument to liberate myself to become a free woman. Flamenco was my instrument to give a life to my children, to fight against a system here that wants to make me a victim like my mother—no, I use flamenco and I was famous, instead of a victim. Flamenco was a gift for me.
 
 
 <div class="responsive-embed responsive-embed-16by9">
