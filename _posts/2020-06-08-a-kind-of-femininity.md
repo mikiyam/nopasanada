@@ -1,6 +1,6 @@
 ---
 layout: post
-title: femininity
+title: a kind of femininity
 tags: [dancing flamenco]
 image: 
   path: https://www.dropbox.com/s/icix95spfe1w15z/maria-at-the-beach.png?raw=1
