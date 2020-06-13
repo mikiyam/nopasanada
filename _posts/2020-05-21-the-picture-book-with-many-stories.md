@@ -9,7 +9,7 @@ tags: [making reading trendy]
 
 ---
 
-Within NGOs, it may be difficult to choose a picture book if it wants to convey a specific agenda. As a social enterprise, Rolling Books doesn't face this limitation.
+Within NGOs, it may be difficult to choose a picture book if they want to convey specific agendas. As a social enterprise, Rolling Books doesn't face this limitation.
 
 <!--more-->
 

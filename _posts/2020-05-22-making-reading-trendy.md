@@ -4,12 +4,12 @@ title: making reading trendy
 image:
   path: https://www.dropbox.com/s/97za94v59w0fjg6/library-rollingbooks.png?raw=1
   thumbnail: https://www.dropbox.com/s/wacbp9k0wiw0dzt/library-rollingbooks_thumbnail.png?raw=1
-  caption: 'Library' written in Traditional Chinese characters.
+  caption: Library written in Traditional Chinese characters.
 tags: [making reading trendy]
 
 ---
 
-Reading is not in trend in Hong Kong. Rolling Books aims to promote the reading experience by introducing novel ways of reading. 
+Reading in Hong Kong is not often thought as particularly social. James aims to make reading a trendy expereince. 
 
 <!--more-->
 

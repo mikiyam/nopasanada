@@ -9,7 +9,7 @@ tags: [making reading trendy]
 
 ---
 
-Ethnic minorities children are susceptible to intergenerational poverty in Hong Kong, because education system prioritzes Chinese [Cantonese] as its main language.
+Ethnic minorities children are susceptible to intergenerational poverty in Hong Kong, because the education system prioritzes Chinese [Cantonese].
 
 <!--more-->
 

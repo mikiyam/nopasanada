@@ -8,7 +8,7 @@ image:
 tags: [making reading trendy]
 
 ---
-Protests that began since last June in 2019 had changed the dynamics of storytelling. As a father himself, James must also think about these issues for his son.
+Protests that began since last June in 2019 have changed the dynamics of storytelling. As a father himself, James must also think about these issues for his son.
 
 <!--more-->
 

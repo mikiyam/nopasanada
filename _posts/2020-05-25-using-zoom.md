@@ -9,7 +9,7 @@ tags: [making reading trendy]
 
 ---
 
-During a break from reading activities, Rolling Books has been spending more time with the ethnic minority families and found that Zoom is not a practical tool.
+During the break from reading activities, Rolling Books has been spending more time with the ethnic minority families and have identified other needs the families may have.
 
 <!--more-->
 
