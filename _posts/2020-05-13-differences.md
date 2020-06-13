@@ -10,7 +10,7 @@ tags: [rebranding blackness]
 
 ---
 
-Working with culturally different members, they celebrate their differences. Innocent suggests that conflicts are learning opportunities.
+Working with culturally different members, the staff at Africa Center celebrates their differences. Innocent suggests that conflicts are learning opportunities.
 
 <!--more-->
 
