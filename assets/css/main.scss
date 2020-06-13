@@ -29,8 +29,4 @@ body {
 
 .entries-grid { grid-template-columns: repeat(auto-fill, minmax(425px, 1fr)) !important; }
 
-.page-pagination {
-  display: none !important;
-}
-
 @import "so-simple";

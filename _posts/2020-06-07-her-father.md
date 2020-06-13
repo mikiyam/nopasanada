@@ -3,11 +3,15 @@ layout: post
 title: her father
 image:
   path: https://www.dropbox.com/s/8jof4pcftex3xay/Quito%20Abanico%20Rojo.png?raw=1
-  thumbnail: https://www.dropbox.com/s/8jof4pcftex3xay/Quito%20Abanico%20Rojo.png?raw=1
-  caption: "Photo by Quito Abanico Rojo."
+  thumbnail: https://www.dropbox.com/s/oot1e5usol77c3s/quito-abanico-rojo_thumbnail.png?raw=1
+  caption: Photo by Quito Abanico Rojo.
 tag: [dancing flamenco]
 
 ---
+
+Maria lost her father at an early age, but it was through her father that she chose to become a flamenco dancer and a singer. 
+
+<!--more-->
 
 In my childhood, my father was listening flamenco all the time and he went all the time to the caves where flamenco dancing, and the gypsies, my grandma was a gypsy dancer there, and in a certain way it was in my blood, but it came to me when I was very young watching flamenco with my father at Alhambra of a gypsy dancer very famous in Granada. There is a monument in Carrera del Darro, you know this man? Mario Maya, he was a big friend of my father. I saw this man performing when he was 2 years old, and I felt the magic in the energy. He was just dancing with a guitar, and I felt my father was crying—my father never cried, and all the people were gasping and I felt this emotion and I thought this was for me. This is what I want to do in my life. I want to inspire people through this magic moment, to this magic moment that art can make, when the hearts are together. This is so beautiful. This music can do it. It’s like everybody’s connected in a point of beauty, not in pain—it’s a beauty of enjoying with deep emotions.
 

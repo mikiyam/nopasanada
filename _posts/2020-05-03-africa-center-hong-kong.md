@@ -2,11 +2,13 @@
 
 layout: post
 title: africa center hong kong
-tags: [africa is not a country]
+tags: [rebranding blackness]
 
 ---
 
-Africa Center Hong Kong is a platform built in 2019 to foster engaged interactions between African and non-African communities in Hong Kong. They host a range of activities from monthly book clubs on African literature, film screening on African movies, and panel discussions. Their Facebook Page can be accessed [here]( https://www.facebook.com/africacenterhk/) or you can find them at their [website]( http://www.africacenterhk.com/). 
+Africa Center Hong Kong is a platform built in 2019 to foster engaged interactions between African and non-African communities in Hong Kong. They host a range of activities from monthly book clubs on African literature, film screening on African movies, panel discussions, and kids club. Their Facebook Page can be accessed [here]( https://www.facebook.com/africacenterhk/) or you can find them at their [website]( http://www.africacenterhk.com/). 
+
+<!--more-->
 
 **Innocent Mutanga** is the co-founder of Africa Center and analyst at Goldman Sachs. 
 
