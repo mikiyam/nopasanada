@@ -13,6 +13,8 @@ Abdirahman and Ali speak of Africa Center as a platform to rewrite the narrative
 
 <!--more-->
 
+-
+
 **Ali:** At Africa Center, we stand strongly against the narratives that we see. We are living in a society that puts the entire continent of Africa as one, and then the behavior of one black person, whom I would call a brother—if he does something wrong or something good, people always see the darker side of him and inevitably this affects all of us. At Africa Center, we are quite open to anybody to come here to sit together and to work on something. When we achieve something together, we really feel proud even when we are tired; when we see people happy, we feel this success, that we did something good. We are a platform that collaborates with different people, to give them the vision that we have. We want to show the people where we come from and how we are. 
 
 People don’t know your background. As a person who comes from a new place, you need to approach the people to show them what your background is and what you really have to offer, so that these people will see and approach you again; we do what we can for the positive image and I am speaking for the brothers and sisters.

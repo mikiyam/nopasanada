@@ -16,7 +16,7 @@ Africa Center Hong Kong is a platform built in 2019 to foster engaged interactio
 
 **Chihiro Shimizu** is the Arts & Cross-Cultural Initiatives Manager and an artist at Africa Center.
 
-**Abdirahman Mahad Mohamud** is the Programs Manager at Africa Center, currently studying Business Management at University of Suderland in Hong Kong. 
+**Abdirahman Mahad Mohamud** is the Programs Manager at Africa Center, currently studying Business Management.
 
 **Elsie Zepho** is the Head of Culinary Arts at Africa Center and a mother of five children in Hong Kong. 
 

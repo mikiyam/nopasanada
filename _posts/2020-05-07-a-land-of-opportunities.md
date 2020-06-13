@@ -14,6 +14,8 @@ Chihiro, from Nagoya, Japan, and Innocent, from South Africa, describe Hong Kong
 
 <!--more-->
 
+-
+
 **Chihiro:** I came to Hong Kong as an exchange student and I felt that Hong Kong is far more international with a lot of different cultures than where I come from. I think I am comparing this place with my hometown; I think it’s why I decided to come to Hong Kong in the first place because I read a book about Hong Kong: it’s like a small world or microcosm of the whole world, where you can meet a lot of different people and you can also work with people from different places.  Nowadays it’s a part of the world which is growing faster and faster, and Hong Kong is a hub to both East Asia and Southeast Asia. You can get anywhere in Southeast Asia within two hours or by plane, so Hong Kong for me is place of a lot of opportunities. 
 
 **Innocent:** Hong Kong is the land of opportunities. There are not a lot of places where you don’t have much and you manage to work your way up, or to be able make something out of that time, so I think not many places in the world where you can do that or the laws that allows you to do that, so in the legal framework, Hong Kong is a very open society that gives a chance to push it through and make something out of it. In Hong Kong, there are some things you don’t have to worry about like healthcare: you can go to the hospital and get treated for free! You might need to line up for a few years, which is what everyone is doing. I think it’s the fact that you don’t have to worry about such things, if you are in the United States, someone has to worry about that all the time while they are trying to pursue something else. 

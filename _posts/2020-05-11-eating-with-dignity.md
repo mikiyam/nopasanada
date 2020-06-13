@@ -13,6 +13,8 @@ For many years, Innocent and his friends continued the practice of ‘eating wit
 
 <!--more-->
 
+-
+
 **Innocent:** Firstly, Africa Center is the space to connect with the African community as well as the wider community in Hong Kong, which is something that wasn’t here when I came. Sometimes in the past, it took me a few weeks to connect with a number of people who could click and share certain things. 
 
 Secondly, for me, Africa Center embodies the idea of self-realization, a place to be yourself, a place to explore yourself, a place to see how much you could potentially do and not do, so I think it’s all of that. You could dream something, you could imagine and envision something and be able to see if you can implement it and get the feedback, and continuously improve primarily oneself. What the platform is for me, will evolve. 

@@ -13,6 +13,8 @@ Although from different countries, Elsie, Abdikafi, and Chihiro feel their belon
 
 <!--more-->
 
+-
+
 **Elsie:** Joining African Center allowed me to be myself. I almost forgot being myself when I was working in Hong Kong where it was difficult for me and actually, I think God punished me with coronavirus because He put African Center already in my way but I was skipping over it. I knew the center for a while and I used to send my kids to Africa Center but they didn’t know me! When I joined after the coronavirus hit, I felt welcomed by the people  who didn’t know my name but recognized my face. I feel like I belong here, like I am in my family. I don’t think he is from Somalia, or he is from another country—no, we are a family: that’s the precious feeling I have from African Center. I knew I wanted to cook before, but I was keeping it for myself. Now I am finding that joy in sharing my food with other people and seeing they are enjoying it with the smiles on their faces because they taste something good, that is a really good reward for me. I am having a love life with Africa Center. 
 
 ![no-alignment]({{ 'https://www.dropbox.com/s/jtwt936l1mt6poc/abdikafi.jpg?raw=1' | absolute_url }})

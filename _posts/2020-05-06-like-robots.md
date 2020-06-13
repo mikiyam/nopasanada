@@ -14,6 +14,8 @@ Elsie reflects on her ten years of living in Hong Kong. Unlike the poeple in the
 
 <!--more-->
 
+-
+
 **Elsie:** I came to Hong Kong in 2010 as a dependent of my ex-husband, by the time fiancé. It was not love at first sight when I come to Hong Kong because I’m a very homey person and it was hard to leave Republic of Congo and come to Hong Kong. In French we say “Qui ne risque rien n’a rien”, which means “if you don’t risk, you are not going to get anything.” When I came in Hong Kong the houses were disappointing. In Africa, we have huge houses, your bedroom you can put four Hong Kong bedrooms in one, that was my first disappointment because I love space and that was not what I found in Hong Kong. There are also too many buildings and I’m not used to that because I come from the village. In Hong Kong, I lived in a building for five years, and I never knew the face of my next-door neighbor. That was shocking because for us in Africa, I don’t know if this is true in all the countries in Africa, but we are family with all the neighbors, like if one of your neighbor is sick, the other neighbor can get out their car and bring you to the hospital. But I didn’t feel that way when I came to Hong Kong, they were not warm people, you see. 
 
 ![no-alignment]({{ 'https://www.dropbox.com/s/cij9do0wa1hr98z/elsie-okra.jpg?raw=1' | absolute_url }})

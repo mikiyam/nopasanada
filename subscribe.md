@@ -4,7 +4,7 @@ permalink: /subscribe/
 collection: subscribe
 
 image: 
-  path: images/subscription.png
+  path: images/subscribe.png
 
 ---
 

@@ -14,6 +14,8 @@ Working with culturally different members, the staff at Africa Center celebrates
 
 <!--more-->
 
+-
+
 **Chihiro:** In Japanese society, we expect other people to work without saying it out loud; we have something called “to read the atmosphere” or “to read the air”, it means you need to understand what your boss wants you to do and  you need to do it by yourself. Here at Africa Center, I needed to adjust since I’m not working with other Japanese students in university. Here, if you want someone to do something for you, you need to say it, or communicate better, so that’s something I need to work on: to have a better communication with people. 
 
 **Elsie:** I like the way we are multicultural, it’s always important to have people who don’t have the same background or the same life as I have because it allows me to know other mindsets. I did work 8 years in Hong Kong but I’ve never been in the community or in the team; I had a team at work, but I have never really been a part of that team and now I have this team and all of us are imperfect but we are putting our effort which is really beautiful because no one makes no one feel inferior. We are all giving our best, because we are all coming with something we know, and we are not ashamed to say we don’t know how to do this or that, because if you ask someone for help, someone would help you to do it in a right way. That’s the positive aspect at the center, because we contribute to each other.

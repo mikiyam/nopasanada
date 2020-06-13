@@ -13,6 +13,8 @@ Shuia b shuia strongly believes in working with local populations, not as an 'ex
 
 <!--more-->
 
+-
+
 **Paula:** For us it is very important to work with local people because they are aware about their region needs. Until now we have been doing educational programs with children — not during school time — but we are open to do all kinds of social programs that can be of interest for the area of Erfoud. 
 
 **Aina:** We started working with kids because most of our group is working with—well, or used to work with—children in Barcelona, so that’s why we started there. As Paula said, we are open to new projects; now for example, we have started a project with children with disabilities.

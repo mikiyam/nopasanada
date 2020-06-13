@@ -13,6 +13,8 @@ After leaving his bookstore, James never left reading aside. He organized runnin
 
 <!--more-->
 
+-
+
 **James:** After the bookstore closed, I started working in other commercial organizations, but eventually I went to Oxfam Hong Kong NGO. The experience at the NGO was also very important to me. Because I have studied art management, when I went to Oxfam to work, I used my knowledge on arts management in Oxfam. In Oxfam, I wasn’t working directly working on policy related issues; at Oxfam, I was working with public education. I was basically using the knowledge on arts management for the work on public education.
 
 After I worked at Oxfam for a couple of years, I would look back into my own experience. I was thinking what I could do with my knowledge on books, because even though I didn’t open a bookstore, there were many interesting stories in between. For example, when I had time, I did something called a Running Book Club. It’s a combination of reading and running. That was just something I did on the side; it wasn’t a business. I organized around 50 times of this running book club: I would provide a theme and people would choose a book, and in some district, we would run, and we would have a reading club. 

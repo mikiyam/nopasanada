@@ -9,9 +9,11 @@ tags: [every summer in erfoud]
     
 ---
 
-María speaks Arabic, specifically Dariya, the local Morrocan Arabic dialect. Paula and Aina do not speak the language, yet, but would like to learn. 
+María speaks Arabic, specifically Dariya, the local Morrocan Arabic dialect. Paula and Aina do not speak the language yet, but would like to learn. 
 
 <!--more-->
+
+-
 
 **Aina:** I know super basic Dariya [a Moroccan Arabic dialect] words. When you are there, sometimes you can understand each other with signs and using those few words you know, and it is true that I can’t communicate myself with the families properly, and that sometimes breeds frustration but you always find someone who knows a little bit of English, a little bit of French, and makes the communication a bit easier. The language is a barrier and a challenge, it has clearly made our work more difficult, but it hasn’t stopped us from working there. 
 

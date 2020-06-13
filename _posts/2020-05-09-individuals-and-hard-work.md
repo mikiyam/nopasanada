@@ -13,6 +13,8 @@ Abdirahman from Somalia and Ali from Chad both emphasize that in Hong Kong, it i
 
 <!--more-->
 
+-
+
 **Abdirahman:** In Hong Kong when you come here for the first time and everyone is rushing to somewhere or from somewhere, life is fast-paced, and it is quite different from where I come from. It’s definitely more relaxed in Somalia, unless you are going to work. This does speak of the way of life of people, how life generally is. If you are someone who is still young and energetic and is ambitious and wants to get something out of living here in Hong Kong, you have the possibility that most the things you want to achieve depends entirely on you, on how hard you work. You are in a place where can take advantage of your talents and your hard work and you try to give the best in the possibility, because the correlation between what you will get back with what you put in are proportional. The more you input to your life, the more likely you are to achieve something. 
 
 You depend on your family and friends much less in Hong Kong. If you are in Somalia and something is getting a little tough, you always have a community or family members; here, [in Hong Kong], it’s generally much more individualistic, I go out and get what I want personally and it forces me to keep rushing from somewhere to somewhere. I am always in a hurry somewhere and because of that, I am responding constantly to the challenges around me and I give everything I have. That’s something people should be doing; it is true people should enjoy their life, but if I spend most of my life relaxing and not pushing, I tend to get behind and the people here understand that, so they push themselves just so that they won’t be left behind. 

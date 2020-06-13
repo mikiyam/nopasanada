@@ -13,6 +13,8 @@ It can be difficult to navigate in certain places as women, even if work isn't m
 
 <!--more-->
 
+-
+
 ![no-alignment]({{ 'https://www.dropbox.com/s/q0f5ayk1lux42z0/activities-duar%20essifa-primary-school.jpg?raw=1' | absolute_url }})
   <figcaption>At a primary school in Duar Essifa.</figcaption>
 
