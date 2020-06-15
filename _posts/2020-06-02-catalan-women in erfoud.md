@@ -9,7 +9,7 @@ tags: [every summer in erfoud]
     
 ---
 
-It can be difficult to navigate in certain places as women, even if work isn't more difficult. Aina, María, and Paula share their experiences working in Erfoud. 
+It can be difficult to navigate in certain spaces as women, even if work isn't more difficult. Aina, María, and Paula share their experiences working in Erfoud. 
 
 <!--more-->
 
