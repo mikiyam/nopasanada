@@ -8,6 +8,12 @@ layout: post
 
 ---
 
+The last three months I spent in between Hong Kong and China.
+
+<!--more-->
+
+-
+
 November
 
 Metal fences that used to define space taken away as protestors use them as barricades during protests. Those probably responsible for public facilities makes futile attempts to redefine space with orange tapes and yellow chains as if to reinforce a border that never existed. 
