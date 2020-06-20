@@ -1,9 +1,8 @@
 ---
-
-title: "hong kong, three times"
+title: hong kong, three times
 image: 
-  path: https://www.dropbox.com/s/brwno0eobhr1x6o/biggestcookie2.gif?raw=1
-  thumbnail: https://www.dropbox.com/s/brwno0eobhr1x6o/biggestcookie2.gif?raw=1
+  path: https://www.dropbox.com/s/ityvjm2qyfq9t69/biggestcookie2.png?raw=1
+  thumbnail: https://www.dropbox.com/s/ityvjm2qyfq9t69/biggestcookie2.png?raw=1
 layout: post
 
 ---
