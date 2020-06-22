@@ -12,6 +12,8 @@ image:
 
 There are four objectives within the project ILPD: providing physiotherapy and education, creating financial security, and raising awareness.
 
+<!--more-->
+
 -
 
 **Johnny:** Our project within Dipshikha is called ILPD, Improving Life for Person with Disability. We have four objectives: providing physiotherapy and education, creating financial security, and raising awareness. We have a center for the first objective: a physiotherapy center. We have 15 sub-centers in 25 villages, and I have two assistant therapists, one male and one female. Every month, we go to the sub-centers two times and give physiotherapy treatment. We also teach caregivers how to do small home tasks, which means the exercise that the person with disability has to do at home.
