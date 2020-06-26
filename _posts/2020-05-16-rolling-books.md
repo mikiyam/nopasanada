@@ -5,7 +5,7 @@ tags: [making reading trendy]
 
 ---
 
-Rolling Books is a social enterprise based in Hong Kong that aims to promote the reading experience. They simultaneously work with social issues including poverty alleviation of minority groups, marine pollution, and women’s empowerment. Their Facebook Page can be accessed [here]( https://www.facebook.com/RollingBooksHK/) or you can find them at their [website]( http://www.rollingbooks.hk/home/).
+**Rolling Books** is a social enterprise based in Hong Kong that aims to promote the reading experience. They simultaneously work with social issues including poverty alleviation of minority groups, marine pollution, and women’s empowerment. Their Facebook Page can be accessed [here]( https://www.facebook.com/RollingBooksHK/) or you can find them at their [website]( http://www.rollingbooks.hk/home/).
 
 <!--more-->
 
