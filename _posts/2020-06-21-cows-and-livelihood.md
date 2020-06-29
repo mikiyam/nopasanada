@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cows and livelihood
+title: Cows and Livelihood
 tags: [disability in dinajpur district]
 image:
   path: https://www.dropbox.com/s/fi37uelpltqyp4n/annual-gathering.jpg?raw=1
@@ -15,7 +15,7 @@ Within the ILPD project, Dipshika aims to bring financial stability to people wi
 
 -
 
-**Johnny:** We create small businesses. Some people with disability are not able to do any businesses and others are able to do business. For those with disability who are unable to maintain their business, we give priority of financial support to their caregiver, like their father or mother or grandparents. We give these people very small amount of capital, but not money. For example, if someone is interested in cow-rearing, we will buy a cow and give them the cow. If someone is thinking of raising chickens, we give them chickens. 
+**Joney:** We create small businesses. Some people with disability are not able to do any businesses and others are able to do business. For those with disability who are unable to maintain their business, we give priority of financial support to their caregiver, like their father or mother or grandparents. We give these people very small amount of capital, but not money. For example, if someone is interested in cow-rearing, we will buy a cow and give them the cow. If someone is thinking of raising chickens, we give them chickens. 
 
 
 ![no-alignment]({{ 'https://www.dropbox.com/s/crd941nomytmlru/assistive-device-distribution.jpg?raw=1' | absolute_url }})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: objectives within ILPD
+title: Objectives within ILPD
 tags: [disability in dinajpur district]
 
 image:
@@ -16,7 +16,7 @@ There are four objectives within the project ILPD: providing physiotherapy and e
 
 -
 
-**Johnny:** Our project within Dipshikha is called ILPD, Improving Life for Person with Disability. We have four objectives: providing physiotherapy and education, creating financial security, and raising awareness. We have a center for the first objective: a physiotherapy center. We have 15 sub-centers in 25 villages, and I have two assistant therapists, one male and one female. Every month, we go to the sub-centers two times and give physiotherapy treatment. We also teach caregivers how to do small home tasks, which means the exercise that the person with disability has to do at home.
+**Joney:** Our project within Dipshikha is called ILPD, Improving Life for Person with Disability. We have four objectives: providing physiotherapy and education, creating financial security, and raising awareness. We have a center for the first objective: a physiotherapy center. We have 15 sub-centers in 25 villages, and I have two assistant therapists, one male and one female. Every month, we go to the sub-centers two times and give physiotherapy treatment. We also teach caregivers how to do small home tasks, which means the exercise that the person with disability has to do at home.
 
 Within the objective of education, we are trying to get every person with disability to go to school and continue with their studies. We provide them with free education with a teacher for general subjects. We give them the education material, including books, paper and pen, and all the other education materials they need. We also work with developing financial security, and we try to get people with disability to start a small business, like selling rice or selling in the small market. Some of them open small shops, too.
 
