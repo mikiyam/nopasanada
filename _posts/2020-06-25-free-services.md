@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Free Treatment
+title: Free Services
 tags: [disability in dinajpur district]
 image:
   path: https://www.dropbox.com/s/dri408paarzxgak/standing-frame-distribution.jpg?raw=1
@@ -9,7 +9,7 @@ image:
 
 ---
   
-Dipshikha aims to provide free treatment to people with disability. For the ILPD project, there are only three people working with 100 children.
+Dipshikha aims to provide free services to people with disability. For the ILPD project, there are only three people working with 100 children.
 
 -
 
