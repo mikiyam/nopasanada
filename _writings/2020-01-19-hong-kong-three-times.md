@@ -1,5 +1,5 @@
 ---
-title: hong kong, three times
+title: Hong Kong, Three Times
 image: 
   path: https://www.dropbox.com/s/ityvjm2qyfq9t69/biggestcookie2.png?raw=1
   thumbnail: https://www.dropbox.com/s/ityvjm2qyfq9t69/biggestcookie2.png?raw=1
