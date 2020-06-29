@@ -1,7 +1,7 @@
 ---
 layout: post
-title: on the stage
-tags: [dancing flamenco]
+title: On the Stage
+tags: [Dancing Flamenco]
 image:
   path: https://www.dropbox.com/s/97siklqtaxg2rly/marjoen-broeks.png?raw=1
   thumbnail: https://www.dropbox.com/s/97siklqtaxg2rly/marjoen-broeks.png?raw=1

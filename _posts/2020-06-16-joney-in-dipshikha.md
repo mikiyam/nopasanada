@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joney in Dipshikha
-tags: [disability in dinajpur district]
+tags: [Disability in Dinajpur District]
 
 ---
 

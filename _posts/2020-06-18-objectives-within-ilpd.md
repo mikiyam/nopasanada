@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Objectives within ILPD
-tags: [disability in dinajpur district]
+tags: [Disability in Dinajpur District]
 
 image:
   path: https://www.dropbox.com/s/b1l9rj4ddc53wso/ilpd-center.png?raw=1

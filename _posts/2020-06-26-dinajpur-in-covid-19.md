@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dinajpur in Covid-19
-tags: [disability in dinajpur district]
+tags: [Disability in Dinajpur District]
 image:
   path: https://www.dropbox.com/s/qc2b2vob3pl7693/food-distribution.jpg?raw=1
   thumbnail: https://www.dropbox.com/s/qc2b2vob3pl7693/food-distribution.jpg?raw=1

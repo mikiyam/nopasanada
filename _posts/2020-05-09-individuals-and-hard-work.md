@@ -1,11 +1,11 @@
 ---
 layout: post
-title: individuals and hard work
+title: Individuals and Hard Work
 image:
   path: https://www.dropbox.com/s/x3omfpgk8jyg7ej/ali-speaking.png?raw=1
   thumbnail: https://www.dropbox.com/s/eh9f62ok2ic6r48/ali-speaking_thumbnail.png?raw=1
   caption: Ali speaking at Africa Center.
-tags: [rebranding blackness]
+tags: [Rebranding Blackness]
 
 ---
 

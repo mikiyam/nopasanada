@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: a land of opportunities
+title: A Land of Opportunities
 image:
   path: https://www.dropbox.com/s/g7p4zkf5rbmtbva/kaze-art.png?raw=1
   thumbnail: https://www.dropbox.com/s/07e505ed10r5dbk/kaze-art_thumbnail.png?raw=1
   caption: At an art exhibition by Cameroonian artist Kaze hosted by Africa Center.
-tags: [rebranding blackness]
+tags: [Rebranding Blackness]
 
 ---
 

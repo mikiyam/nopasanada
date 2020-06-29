@@ -1,7 +1,7 @@
 ---
 layout: post
-title: consciousness
-tags: [dancing flamenco]
+title: Consciousness
+tags: [Dancing Flamenco]
 image: 
   path: https://www.dropbox.com/s/0f39z0oe9bba9n8/marcel-kloster.png?raw=1
   thumbnail: https://www.dropbox.com/s/0f39z0oe9bba9n8/marcel-kloster.png?raw=1

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: intergenerational poverty
+title: Intergenerational Poverty
 image: 
   path: https://www.dropbox.com/s/hhpv65axgg2a1no/rolling-books-kids.png?raw=1
   thumbnail: https://www.dropbox.com/s/drfno5apbtws8k3/rolling-books-kids_thumbnail.png?raw=1
   caption: Children recieving their books at the doorstep.
-tags: [making reading trendy]
+tags: [Making Reading Trendy]
 
 ---
 

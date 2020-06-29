@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Services
-tags: [disability in dinajpur district]
+tags: [Disability in Dinajpur District]
 image:
   path: https://www.dropbox.com/s/dri408paarzxgak/standing-frame-distribution.jpg?raw=1
   thumbnail: https://www.dropbox.com/s/dri408paarzxgak/standing-frame-distribution.jpg?raw=1

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: rewriting narratives
+title: Rewriting Narratives
 image:
   path: https://www.dropbox.com/s/axppne1jfiur8gi/network-lunch.png?raw=1
   thumbnail: https://www.dropbox.com/s/bkvy75ujd9m4dlw/network-lunch_thumbnail.png?raw=1
   caption: At network lunch at Africa Center. 
-tags: [rebranding blackness]
+tags: [Rebranding Blackness]
 
 ---
 

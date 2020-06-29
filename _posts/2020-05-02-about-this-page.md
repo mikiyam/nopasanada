@@ -1,7 +1,7 @@
 ---
 layout: post
-title: about this page
-category: about
+title: About This Page
+category: About
 
 ---
 

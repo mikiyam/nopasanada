@@ -1,11 +1,11 @@
 ---
 layout: post
-title: her father
+title: Her Father
 image:
   path: https://www.dropbox.com/s/8jof4pcftex3xay/Quito%20Abanico%20Rojo.png?raw=1
   thumbnail: https://www.dropbox.com/s/oot1e5usol77c3s/quito-abanico-rojo_thumbnail.png?raw=1
   caption: Photo by Quito Abanico Rojo.
-tag: [dancing flamenco]
+tag: [Dancing Flamenco]
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: the new digital divide
+title: The New Digital Divide
 image:
   path: https://www.dropbox.com/s/rtqa83e1cpuf586/story-telling-in-a-different-way.png?raw=1
   thumbnail: https://www.dropbox.com/s/hcr46fnrany0j1l/story-telling-in-a-different-way_thumbnail.png?raw=1
   caption: At a reading event on Mother's Day.
-tags: [making reading trendy]
+tags: [Making Reading Trendy]
 
 ---
 

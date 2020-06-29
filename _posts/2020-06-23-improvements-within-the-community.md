@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Improvements within the Community
-tags: [disability in dinajpur district]
+tags: [Disability in Dinajpur District]
 image: 
   path: https://www.dropbox.com/s/ou6l0w5ksg0xtd2/celebrating-world-autism-day.jpg?raw=1
   thumbnail: https://www.dropbox.com/s/ou6l0w5ksg0xtd2/celebrating-world-autism-day.jpg?raw=1

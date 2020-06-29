@@ -1,12 +1,11 @@
 ---
-
 layout: post
-title: differences
+title: Differences
 image:
   path: https://www.dropbox.com/s/liih3k44rhe2mf3/mahad-birthday.png?raw=1
   thumbnail:  https://www.dropbox.com/s/mz1o2drkz9e89hz/mahad-birthday_thumbnail.png?raw=1
   caption: At Abdirahman's birthday.
-tags: [rebranding blackness]
+tags: [Rebranding Blackness]
 
 ---
 

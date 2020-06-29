@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: africa center hong kong
-tags: [rebranding blackness]
+title: Africa Center Hong Kong
+tags: [Rebranding Blackness]
 
 ---
 

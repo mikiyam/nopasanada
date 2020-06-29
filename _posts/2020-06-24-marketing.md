@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marketing
-tags: [disability in dinajpur district]
+tags: [Disability in Dinajpur District]
 image:
   path: https://www.dropbox.com/s/cbzoc6qv1jt7k6z/measuring-leg-for-assistive-device.jpg?raw=1
   thumbnail: https://www.dropbox.com/s/cbzoc6qv1jt7k6z/measuring-leg-for-assistive-device.jpg?raw=1

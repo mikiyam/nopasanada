@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Organization, Dipshikha
-tags: [disability in dinajpur district]
+tags: [Disability in Dinajpur District]
 image:
   path: https://www.dropbox.com/s/64j514jnxl5l62q/dipshikha-meeting.jpg?raw=1
   thumbnail: https://www.dropbox.com/s/64j514jnxl5l62q/dipshikha-meeting.jpg?raw=1

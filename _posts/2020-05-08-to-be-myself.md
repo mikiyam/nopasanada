@@ -1,11 +1,11 @@
 ---
 layout: post
-title: to be myself
+title: To Be Myself
 image:
   path: https://www.dropbox.com/s/e5wv5ndfu16snot/innocent-with-the-kids.png?raw=1
   thumbnail: https://www.dropbox.com/s/mz3dl2kxb7p5ezi/innocent-with-the-kids_thumbnail.png?raw=1
   caption: Innocent at Kidz Club.
-tags: [rebranding blackness]
+tags: [Rebranding Blackness]
 
 ---
 

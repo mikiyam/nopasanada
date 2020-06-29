@@ -1,11 +1,11 @@
 ---
 layout: post
-title: a business model 
+title: A Business Model 
 image:
   path: https://www.dropbox.com/s/2hwooykbnsvr46a/rollingbooks-parents.png?raw=1
   thumbnail: https://www.dropbox.com/s/9ltlu4xinvl0mfq/rollingbooks-parents_thumbnail.png?raw=1
   caption: Parents with their children at Rolling Books.
-tags: [making reading trendy]
+tags: [Making Reading Trendy]
 
 ---
 

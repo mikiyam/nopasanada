@@ -1,7 +1,7 @@
 ---
 layout: post
-title: rolling books
-tags: [making reading trendy]
+title: Rolling Books
+tags: [Making Reading Trendy]
 
 ---
 

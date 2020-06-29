@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title: calling it home
+title: Calling It Home
 image:
   path: https://www.dropbox.com/s/yqmowd2thy5r1yq/mahad-on-the-drum.png?raw=1
   thumbnail: https://www.dropbox.com/s/4ms3rcum3rjmlxv/mahad-on-the-drum_thumbnail.png?raw=1
   caption: Abdirahman on the djembe.
-tags: [rebranding blackness]
+tags: [Rebranding Blackness]
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: the story of flamenco
+title: The Story of Flamenco
 image: 
   path: https://www.dropbox.com/s/az4jcz7tv15co0u/maria-singing.png?raw=1
   thumbnail: https://www.dropbox.com/s/az4jcz7tv15co0u/maria-singing.png?raw=1
   caption: Maria at Festival Flamenco de Mar del Plata. Photo by Liliana Macri. 
-tags: [dancing flamenco]
+tags: [Dancing Flamenco]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cows and Livelihood
-tags: [disability in dinajpur district]
+tags: [Disability in Dinajpur District]
 image:
   path: https://www.dropbox.com/s/fi37uelpltqyp4n/annual-gathering.jpg?raw=1
   thumbnail: https://www.dropbox.com/s/fi37uelpltqyp4n/annual-gathering.jpg?raw=1

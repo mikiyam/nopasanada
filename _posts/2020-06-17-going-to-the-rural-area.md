@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Going to the Rural Area
-tags: [disability in dinajpur district]
+tags: [Disability in Dinajpur District]
 image:
   path: https://www.dropbox.com/s/b3g4bcvg5t74y11/johnny-hearing-test.jpg?raw=1
   thumbnail: https://www.dropbox.com/s/b3g4bcvg5t74y11/johnny-hearing-test.jpg?raw=1

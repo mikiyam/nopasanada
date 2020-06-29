@@ -1,7 +1,7 @@
 ---
 layout: post
-title: creating her own reality
-tags: [dancing flamenco]
+title: Creating Her Own Reality
+tags: [Dancing Flamenco]
 image:
   path: https://www.dropbox.com/s/z41mtoyydlcrib8/lilian-macri-maria.png?raw=1
   thumbnail: https://www.dropbox.com/s/z41mtoyydlcrib8/lilian-macri-maria.png?raw=1

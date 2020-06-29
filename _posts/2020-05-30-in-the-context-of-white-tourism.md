@@ -1,11 +1,11 @@
 ---
-title: in the context of white tourism
+title: In the Context of White Tourism
 layout: post
 image: 
   path: https://www.dropbox.com/s/cq1px7va2nhybao/duar-essifa.png?raw=1
   thumbnail: https://www.dropbox.com/s/ydujqcg1hrkyxrf/duar-essifa_thumbnail.png?raw=1
   caption: Children at Duar Essifa, a village near Erfoud.
-tags: [every summer in erfoud]
+tags: [Every Summer in Erfoud]
     
 ---
 

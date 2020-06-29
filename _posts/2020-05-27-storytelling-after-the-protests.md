@@ -5,7 +5,7 @@ image:
   path: https://www.dropbox.com/s/slhxf9yc4yqh5fc/reading-rollingbooks.png?raw=1
   thumbnail: https://www.dropbox.com/s/2w27vx3sos1w69o/reading-rollingbooks_thumbnail.png?raw=1
   caption: Storytelling.
-tags: [making reading trendy]
+tags: [Making Reading Trendy]
 
 ---
 Protests that began since last June in 2019 have changed the dynamics of storytelling. As a father himself, James must also think about these issues for his son.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: a kind of femininity
-tags: [dancing flamenco]
+title: A Kind of Femininity
+tags: [Dancing Flamenco]
 image: 
   path: https://www.dropbox.com/s/icix95spfe1w15z/maria-at-the-beach.png?raw=1
   thumbnail: https://www.dropbox.com/s/icix95spfe1w15z/maria-at-the-beach.png?raw=1

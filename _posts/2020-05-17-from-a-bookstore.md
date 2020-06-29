@@ -1,11 +1,11 @@
 ---
 layout: post
-title: from a bookstore
+title: From a Bookstore
 image:
   path: https://www.dropbox.com/s/z3kx5eorp80pbwm/james.png?raw=1
   thumbnail: https://www.dropbox.com/s/m8uw1rz9zdp7c01/james_thumbnail.png?raw=1
   caption: James speaking at an interview.
-tags: [making reading trendy]
+tags: [Making Reading Trendy]
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: learning dariya
+title: Learning Dariya
 layout: post
 image: 
   path: https://www.dropbox.com/s/rqbtkx9wgqt75xy/swimming-pool.png?raw=1
   thumbnail: https://www.dropbox.com/s/jkvbwf0qzdm08ed/swimming-pool_thumbnail.png?raw=1
   caption: Shuia b shuia at the swimming pool with children with disabilities in Erfoud.
-tags: [every summer in erfoud]
+tags: [Every Summer in Erfoud]
     
 ---
 
